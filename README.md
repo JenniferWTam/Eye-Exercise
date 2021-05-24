@@ -11,7 +11,6 @@ Some of these events are as follows:
 ## Description
 
 ### Tracking 'eye' movements using mouse movement
-
 Binding code to user actions using Javascript. 
 
 ## Steps to Run
