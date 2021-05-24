@@ -7,9 +7,13 @@ Some of these events are as follows:
   <li>mouseleave: Triggered when mouse the leaves an element</li>
 </ul>
 <img src= "eye.png" width ='300'/>
+
 ## Description
+
 ### Tracking 'eye' movements using mouse movement
+
 Binding code to user actions using Javascript. 
+
 ## Steps to Run
 Ensure you have the following files downloaded from this repository onto your local machine and saved into the same file directory.
 <ul>
