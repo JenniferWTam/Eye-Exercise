@@ -22,11 +22,11 @@ Ensure you have the following files downloaded from this repository onto your lo
 </ul>
 Drag and drop the index.html into your web browser
 
-<i>You may also use this link to preview this repository</i> &middot; <a href="https://jenniferwtam.github.io/Pacman-Exercise/
-" target="__blank">Pacman-Exercise</a>
+<i>You may also use this link to preview this repository</i> &middot; <a href="https://jenniferwtam.github.io/Eye-Exercise/
+" target="__blank">Eye-Exercise</a>
 
 ## Future Improvements
-I would like be able to add a yellow circle in front of Pacman's mouth to emulate the original Pacman games a little more.
+I would like to add more features to the eyes and make them more expressive.
 
 ## License Information
 MIT License
