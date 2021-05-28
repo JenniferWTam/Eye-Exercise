@@ -31,7 +31,7 @@ I would like to add more features to the eyes and make them more expressive.
 ## License Information
 MIT License
 
-Copyright (c) 2021 John Williams
+Copyright (c) 2021 Jennifer Tam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
